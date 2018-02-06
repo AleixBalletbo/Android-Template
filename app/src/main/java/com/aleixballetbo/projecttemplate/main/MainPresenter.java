@@ -1,6 +1,6 @@
 package com.aleixballetbo.projecttemplate.main;
 
-import com.aleixballetbo.domain.Model;
+import com.aleixballetbo.Model;
 
 import javax.inject.Inject;
 

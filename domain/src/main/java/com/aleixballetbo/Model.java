@@ -1,4 +1,4 @@
-package com.aleixballetbo.domain;
+package com.aleixballetbo;
 
 import javax.inject.Inject;
 
